@@ -4,7 +4,6 @@
   flex-wrap: wrap;
   justify-content: center;
   gap: 2rem;
-/*   margin: 3rem 0; */
   padding: 0;
   flex-direction: column;
 }
@@ -24,14 +23,14 @@
 }
 
 .game-board button {
-  width: 8rem;
-  height: 8rem;
+  width: 5rem;
+  height: 5rem;
   border: none;
   background: #aca788;
   color: #3f3b00;
-  font-size: 5rem;
+  font-size: 4rem;
   cursor: pointer;
   font-family: 'Caprasimo', cursive;
-  padding: 1rem;
+/*   padding: 1rem; */
 }
 
