@@ -1,0 +1,1 @@
+export const JOGADOR_INICIAL = { X: "Player 1", O: "Player 2"};
