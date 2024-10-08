@@ -29,4 +29,4 @@ git clone https://github.com/elasoares/JogoDaVelha
 2. Visitar o site:
 
 ```bash
-site:  https://elasoares.github.io/JogoDaVelha/
+site:  https://elasoares.github.io/JogoDaVelha
