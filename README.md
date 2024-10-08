@@ -26,3 +26,7 @@ Este repositório contém o desenvolvimento de um **Jogo da Velha (Tic-Tac-Toe)*
 ```bash
 git clone https://github.com/elasoares/JogoDaVelha
 
+2. Visitar o site:
+
+```bash
+site:  https://elasoares.github.io/JogoDaVelha/
