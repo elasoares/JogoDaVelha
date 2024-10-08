@@ -1,6 +1,6 @@
 # Jogo da Velha (Tic-Tac-Toe)
 
-Este repositório contém o desenvolvimento de um **Jogo da Velha (Tic-Tac-Toe)** construído em **React** como parte das atividades do curso da **Udemy**. O objetivo deste projeto é aplicar os conceitos de **React**, **hooks**, gerenciamento de estado, manipulação de componentes e lógica de jogo. O projeto é interativo e permite que dois jogadores joguem uma partida completa.
+Este repositório contém o desenvolvimento de um **Jogo da Velha (Tic-Tac-Toe)** construído em **React** como parte das atividades do curso da **Udemy**. O objetivo deste projeto é aplicar os conceitos de **React**, gerenciamento de estado, manipulação de componentes e lógica de jogo. O projeto é interativo, responsivo e permite que dois jogadores joguem uma partida completa.
 
 ## Funcionalidades
 
@@ -29,4 +29,4 @@ git clone https://github.com/elasoares/JogoDaVelha
 2. Visitar o site:
 
 ```bash
-site:  https://elasoares.github.io/JogoDaVelha
+site:  https://elasoares.github.io/JogoDaVelha/
