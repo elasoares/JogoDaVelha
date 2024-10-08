@@ -1,5 +1,5 @@
 
-    
+
     .container-span-jogador{
         display: flex;
         justify-content: space-around;
@@ -12,11 +12,8 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        gap: 50px;
-        width: 50%;
         border: 2px solid transparent;
-        padding-bottom: 50px;
-
+        gap: 50px;
     }
 
     .nome-jogador{
@@ -39,17 +36,6 @@
 
 
   
-  @keyframes pulse {
-      0% {
-          transform: scale(1);
-      }
-      50% {
-          transform: scale(1.05);
-      }
-      100% {
-          transform: scale(1);
-      }
-  }
 
 
     .simbolo-jogador{
@@ -58,18 +44,6 @@
         color: #e1dec7;
     }
 
-    input {
-        font: inherit;
-        font-size: 1rem;
-        width: 10rem;
-        border: none;
-        padding: 0.5rem;
-        animation: pulse-text 2s infinite;
-        background-color: #46432f;
-        text-align: center;
-        text-transform: uppercase;
-        color: #949494;
-      }
 
       .botao {
         width: 5rem;
@@ -79,7 +53,7 @@
         font-size: 1rem;
         cursor: pointer;
         transition: color 0.2s;
-        padding: 10px;
+        padding: 12px;
         text-align: center;
       }
       
@@ -88,3 +62,5 @@
         border: 1px solid #f8ca31;
       }
       
+
+  

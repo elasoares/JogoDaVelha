@@ -22,14 +22,14 @@ export function Jogador({initialName, simbolo, isActive, onChangeName}){
 
 
     return(
-
+<div className={styles.container}>
       <li className={`${isActive ? styles.active : ''} ${styles["container-lista"]}`}>
     
       {!editar ? (
         <span className={styles["container-span-jogador"]}>
         <span className={styles["nome-jogador"]}>{exibirNome}</span>
         <span className={styles["simbolo-jogador"]}>{simbolo}</span>   
-         </span>
+        </span>
       ): (
         <input 
         type="text" 
@@ -46,7 +46,7 @@ export function Jogador({initialName, simbolo, isActive, onChangeName}){
         </button>
       </li>
 
-
+</div>
 
    
     )
